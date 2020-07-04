@@ -12,7 +12,8 @@ TayPark이 2018년부터 개발자로 살았던 인생을 요약하여 경로로
 2. (`JS`)소프트웨어 공학 과제-창원시 자전거/버스 길찾기 시스템 개발: [CWNU19SE_2B](https://github.com/TayPark/CWNU19SE_2B)
 3. (fork)소프트웨어 요구사항 명세서 한글 번역본: [srs-kor](https://github.com/TayPark/srs-kor)
 4. (Java)XML을 파싱하여 다른 언어로 번역하는 코드 작성: [xLang2019](./xLang)
-5. (DBA)데이터 요구사항을 파악하여 ERD 작성: [ERD](./ERD)
+5. (ERD)데이터 요구사항을 파악하여 ERD 작성: [ERD](./ERD)
+6. (ML)sklearn 모듈을 사용하여 아이리스의 종 예상하기: [ML](./ML) 
 
 ## 2020
 
